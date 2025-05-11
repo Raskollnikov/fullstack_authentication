@@ -74,7 +74,9 @@ Handling async flows and error states <br>
  
 styling may not be perfect, but functionality is 🔥 — always improving  <br>
 
+![image](https://github.com/user-attachments/assets/e25d32f8-6b86-483a-bae4-324425f95c93)
 
+![image](https://github.com/user-attachments/assets/a9723650-1f35-4a7d-b3dc-286b087b6f87)
 
 ![image](https://github.com/user-attachments/assets/b3e2ce1b-32fb-414a-b4cb-43255eaa7e7d)
 
